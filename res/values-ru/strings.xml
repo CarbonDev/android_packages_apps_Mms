@@ -395,4 +395,9 @@
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Копировать адрес почты</string>
     <string name="copy_number">Копировать номер телефона</string>
+    <string name="direct_call_title">Прямой вызов</string>
+    <string name="direct_call_summary">Нажатие на телефон вызывает контакт</string>
+    <string name="pref_title_mms_message_font_size">Размер шрифта</string>
+    <string name="pref_summary_mms_message_font_size">Изменить размер шрифта просмотра сообщения</string>
+    <string name="pref_dialogtitle_mms_message_font_size">Выбрать размер шрифта</string>
 </resources>
